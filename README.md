@@ -1,5 +1,5 @@
 # liminal-agent
-Liminal-Agent is an interface for Stable Diffusion with a tool-calling and web-seraching agent based on Qwen3's 4 billion parameter thinking model.
+Liminal-Agent is an interface for Stable Diffusion with a tool-calling and web-searching agent based on Qwen3's 4 billion parameter thinking model.
 It is able to search and navigate the web for the most up-to-date information and create acurate and detailed prompts which are fed into Stable Diffusion to be converted into an image.
 
 ## Prerequisities
